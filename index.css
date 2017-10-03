@@ -1,0 +1,35 @@
+
+.jumbotron-jumbotron-fluid{
+    background:#405b74;
+    text:white;
+    font-size:2em;
+}
+
+.titel1{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:3em;
+}
+
+.subtitel1{
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+.footer{
+    background-size:cover;
+    color:white;
+    height: 170px;
+    padding:12px;
+    float:auto;
+    
+  }
+  
+  .footer-wrapper{
+    background-color: white;
+    margin-top: 20px;
+    background:#405b74;
+  
+  }
+
