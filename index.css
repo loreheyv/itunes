@@ -5,31 +5,51 @@
     font-size:2em;
 }
 
-.titel1{
+.mytunes{
     color:white;
     font-family:Arial, Helvetica, sans-serif;
-    font-size:3em;
+    font-size:70px;
+    text-align:center;
 }
 
-.subtitel1{
+.subtekst{
     color:white;
     font-family:'Times New Roman', Times, serif;
+    font-size:25px;
+    text-align:center;
 }
 
 
-.footer{
-    background-size:cover;
-    color:white;
-    height: 170px;
-    padding:12px;
-    float:auto;
-    
-  }
-  
-  .footer-wrapper{
-    background-color: white;
-    margin-top: 20px;
-    background:#405b74;
-  
-  }
+.uitleg{
+    text-align:right;
+}
 
+.btn-outline-warning{
+    align-content: center;
+    border-color:#f2c800;
+    margin-left: 200px;
+}
+
+.btn-secondary, dropdown-toggle{
+    background-color:#f2c800;
+    border:none;
+    color:black;
+    margin-bottom:3px;
+    text-align:right;
+    
+}
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
