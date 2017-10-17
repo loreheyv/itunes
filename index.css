@@ -72,7 +72,7 @@
 
 .uitleg{
     text-align:right;
-    font-size:18pt;
+    font-size:20pt;
     font-family:Arial, Helvetica, sans-serif;
 }
 
@@ -88,10 +88,34 @@
 /* Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) { 
     
+    .uitleg{
+        text-align:right;
+        font-size:20pt;
+        font-family:Arial, Helvetica, sans-serif;
+    }
+    
+    
+    .logo{
+        width:800px;
+        height: auto;
+        align-content: center;
+     }
 }
 
 /* Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) { 
 
+    .uitleg{
+        text-align:right;
+        font-size:20pt;
+        font-family:Arial, Helvetica, sans-serif;
+    }
+    
+    
+    .logo{
+        width:800px;
+        height: auto;
+        align-content: center;
+     }
 
  }
