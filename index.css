@@ -9,7 +9,7 @@
     width:400px;
     height:auto ;
     align-content:center;
-    margin-left:200px;
+    margin-left:30px;
  }
 
 .subtekst{
@@ -49,7 +49,7 @@
     background-color:#405b74;
     color:white;
     border:none;
-    margin-bottom:3px;
+    margin-bottom:20px;
     margin-left: 10px;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 15pt;
@@ -66,6 +66,17 @@
 
 #album2{
     margin-left:0px;
+}
+
+.footer{
+    background-color: #405b74;
+    width:100%;
+    height: 90px;
+}
+.textmuted{
+    color: white;
+    text-align: right;
+    padding-top: 20px;
 }
 
 /* Extra small devices (portrait phones, less than 576px)
