@@ -39,6 +39,10 @@
     font-family:Arial, Helvetica, sans-serif;
 }
 
+.btn {
+    align-items: right;
+}
+
 .btn-secondary{
     height:50px;
     width:auto;
@@ -46,6 +50,7 @@
     color:white;
     border:none;
     margin-bottom:3px;
+    margin-left: 10px;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 15pt;
     
