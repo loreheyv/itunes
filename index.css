@@ -147,7 +147,16 @@
         
     }
 
-
+    .footer{
+        background-color: #405b74;
+        width:100%;
+        height: 90px;
+    }
+    .textmuted{
+        color: white;
+        text-align: right;
+        padding-top: 20px;
+    }
 
 
 /* Extra large devices (large desktops, 1200px and up)*/
